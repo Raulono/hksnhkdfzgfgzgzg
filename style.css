@@ -1,0 +1,23 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: rebeccapurple;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 36px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    color: blanchedalmond;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+}
